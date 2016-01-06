@@ -4,8 +4,15 @@
         <description><![CDATA[Benjamin Bachman]]></description>
         <link>https://thegrid.ai/benjamin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jan 2016 16:56:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jan 2016 16:57:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/benjamin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello]]></title>
+            <description><![CDATA[<article><h1>Hello</h1><p>Does this mean that it is posting the video hello?</p></article>]]></description>
+            <link>https://thegrid.ai/benjamin/hello/index.html</link>
+            <guid isPermaLink="false">27d9a8ca-bc89-41c6-a3d7-1c5949e4c421</guid>
+            <pubDate>Wed, 06 Jan 2016 16:57:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Grid]]></title>
             <description><![CDATA[<article><h1>The Grid</h1><p>Ok Grid... Let's do this!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e9e6228532a5544db8362cea24b55b1028f20c96.jpg"></article>]]></description>
